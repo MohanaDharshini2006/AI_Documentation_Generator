@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+b55c87564746b05daa2c2090a25b66b06e6adcc2 refs/remotes/origin/Blog
+f55d34a810d8b37a848e3838f0e3114058b96b74 refs/remotes/origin/External-Documentation
+07c3bdcc4d832ebb0fff67724618f7d94ae1ae27 refs/remotes/origin/Internal-Docu
+01ae07d4b22aed181bc70797cba618f5516331a7 refs/remotes/origin/Shared-Branch
+a3f11e3836050ef7a28371d4d60050e52fe418db refs/remotes/origin/Social-media
+506cce7b447da91f5f93196e2423699407d6cd22 refs/remotes/origin/UI/UX
+222d91d39b0f2b5d398ecec5676b0a06d9932adc refs/remotes/origin/documentation
+bb30eecda9a48207e5e4599f16ddc76ab083b0cc refs/remotes/origin/main
+a5e10efae79df9515794737f8a04cebfd3251533 refs/remotes/origin/seo/geo
+810aeae3c00f3e2adb0f8e0dc9cb560330e0639a refs/remotes/origin/social_media_final
